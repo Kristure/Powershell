@@ -1,1 +1,1 @@
-cscript $Env:SystemDirectory\slmgr.vbs /dli
+cscript $Env:windir\system32\slmgr.vbs /dli
