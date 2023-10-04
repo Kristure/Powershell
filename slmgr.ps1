@@ -1,1 +1,1 @@
-cscript $Env:windir\system32\slmgr.vbs /xpr
+cscript -nologo $Env:windir\system32\slmgr.vbs /xpr
